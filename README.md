@@ -1,5 +1,5 @@
-# hacktoberfest2020
-Get started with hacktoberfest and make your first PR here
+# Hacktoberfest2020
+Get started with Hacktoberfest and make your first PR here
 
 Simply add your full name and the link to your github profile to Participants.txt 
 and maybe checkout the other people who've added their names and the open source
